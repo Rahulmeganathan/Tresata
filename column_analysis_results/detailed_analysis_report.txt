@@ -1,0 +1,320 @@
+SEMANTIC COLUMN CLASSIFICATION ANALYSIS REPORT
+============================================================
+
+Analysis Date: 2025-09-06 14:10:05
+Total Columns Analyzed: 19
+
+CLASSIFICATION DISTRIBUTION:
+------------------------------
+Company Name: 5 columns (26.3%)
+Country: 4 columns (21.1%)
+Date: 4 columns (21.1%)
+Phone Number: 6 columns (31.6%)
+
+DETAILED COLUMN ANALYSIS:
+------------------------------
+
+1. Column: col1
+   Predicted Type: Country
+   Primary Confidence: 0.961
+   Data Quality: 1397/2015 valid values
+   Confidence Scores:
+     Country: 0.961
+     Date: 0.466
+     Phone Number: 0.456
+     Company Name: 0.225
+   Sample Values:
+     1. Chile
+     2. Greece21
+     3. Mexico
+     4. UAE
+     5. Portugal
+
+2. Column: col2
+   Predicted Type: Country
+   Primary Confidence: 0.949
+   Data Quality: 1164/2015 valid values
+   Confidence Scores:
+     Country: 0.949
+     Phone Number: 0.484
+     Date: 0.478
+     Company Name: 0.262
+   Sample Values:
+     1. Bangladesh
+     2. Chile
+     3. Ireland
+     4. Philippines
+     5. Chile
+
+3. Column: col3
+   Predicted Type: Phone Number
+   Primary Confidence: 0.484
+   Data Quality: 1157/2015 valid values
+   Confidence Scores:
+     Phone Number: 0.484
+     Date: 0.434
+     Company Name: 0.333
+     Country: 0.326
+   Sample Values:
+     1. n@%dj#h*
+     2. txdgqicn^jq
+     3. gumyx@a
+     4. @*%yui#udkr^unk
+     5. qhukeqh
+
+4. Column: col4
+   Predicted Type: Phone Number
+   Primary Confidence: 0.508
+   Data Quality: 1027/2015 valid values
+   Confidence Scores:
+     Phone Number: 0.508
+     Date: 0.447
+     Country: 0.332
+     Company Name: 0.329
+   Sample Values:
+     1. #vk!#x
+     2. lo$n@!xq
+     3. mdgleq
+     4. @nl@^%*
+     5. rcbbdmjk
+
+5. Column: col5
+   Predicted Type: Phone Number
+   Primary Confidence: 0.822
+   Data Quality: 1551/2015 valid values
+   Confidence Scores:
+     Phone Number: 0.822
+     Date: 0.515
+     Company Name: 0.224
+     Country: 0.215
+   Sample Values:
+     1. (896) 991-2378
+     2. 498-018-8327
+     3. (611) 941-1980
+     4. 306.873.6048
+     5. -96574
+
+6. Column: col6
+   Predicted Type: Phone Number
+   Primary Confidence: 0.830
+   Data Quality: 1256/2015 valid values
+   Confidence Scores:
+     Phone Number: 0.830
+     Date: 0.515
+     Company Name: 0.244
+     Country: 0.203
+   Sample Values:
+     1. -114300
+     2. -242
+     3. 060-269-9635
+     4. (480) 657-3553
+     5. 434-107-7121
+
+7. Column: col7
+   Predicted Type: Country
+   Primary Confidence: 0.949
+   Data Quality: 1512/2015 valid values
+   Confidence Scores:
+     Country: 0.949
+     Date: 0.460
+     Phone Number: 0.445
+     Company Name: 0.249
+   Sample Values:
+     1. Sri Lanka99
+     2. Sri Lanka71
+     3. Bangladesh
+     4. Turkey
+     5. South Africa
+
+8. Column: col8
+   Predicted Type: Phone Number
+   Primary Confidence: 0.837
+   Data Quality: 1483/2015 valid values
+   Confidence Scores:
+     Phone Number: 0.837
+     Date: 0.516
+     Company Name: 0.234
+     Country: 0.216
+   Sample Values:
+     1. Call 598-852-8147
+     2. -4426
+     3. -7067
+     4. -78529
+     5. -132638
+
+9. Column: col9
+   Predicted Type: Date
+   Primary Confidence: 0.860
+   Data Quality: 1058/2015 valid values
+   Confidence Scores:
+     Date: 0.860
+     Phone Number: 0.524
+     Country: 0.355
+     Company Name: 0.194
+   Sample Values:
+     1. Tech March 28th, 2013
+     2. 12th-11-2013
+     3. 20th-11-20th21
+     4. 14th September 2017
+     5. Feb 17th, 2022
+
+10. Column: col10
+   Predicted Type: Date
+   Primary Confidence: 0.859
+   Data Quality: 1360/2015 valid values
+   Confidence Scores:
+     Date: 0.859
+     Phone Number: 0.531
+     Country: 0.350
+     Company Name: 0.192
+   Sample Values:
+     1. May 20th, 20th23
+     2. Solutions Friday 3rd Nov 2023
+     3. Thursday 21st April 2022
+     4. Wed 1st June 21st1
+     5. 10/5th/2015
+
+11. Column: col11
+   Predicted Type: Date
+   Primary Confidence: 0.857
+   Data Quality: 1575/2015 valid values
+   Confidence Scores:
+     Date: 0.857
+     Phone Number: 0.517
+     Country: 0.356
+     Company Name: 0.184
+   Sample Values:
+     1. Net Wednesday 6th Feb 2013
+     2. Wednesday 1st September 2004
+     3. Wed 27th August 2008
+     4. Sep 15th, 2002
+     5. 31st-01-2025
+
+12. Column: col12
+   Predicted Type: Phone Number
+   Primary Confidence: 0.495
+   Data Quality: 1046/2015 valid values
+   Confidence Scores:
+     Phone Number: 0.495
+     Date: 0.446
+     Company Name: 0.345
+     Country: 0.329
+   Sample Values:
+     1. Softccdfg
+     2. vfjlhezb&
+     3. tl*a@lojg%z@%q
+     4. moda*az
+     5. Net!nly@%cu
+
+13. Column: col13
+   Predicted Type: Country
+   Primary Confidence: 0.740
+   Data Quality: 93/2015 valid values
+   Confidence Scores:
+     Country: 0.740
+     Phone Number: 0.436
+     Date: 0.414
+     Company Name: 0.244
+   Sample Values:
+     1. English
+     2. Spanish
+     3. Telugu
+     4. portugese
+     5. Turkey
+
+14. Column: col14
+   Predicted Type: Date
+   Primary Confidence: 0.827
+   Data Quality: 40/2015 valid values
+   Confidence Scores:
+     Date: 0.827
+     Phone Number: 0.821
+     Country: 0.660
+     Company Name: 0.308
+   Sample Values:
+     1. Sri Lanka99
+     2. Thailand
+     3. South Korea
+     4. China
+     5. (715) 212-9792
+
+15. Column: col15
+   Predicted Type: Company Name
+   Primary Confidence: 0.838
+   Data Quality: 1967/2015 valid values
+   Confidence Scores:
+     Company Name: 0.838
+     Date: 0.561
+     Phone Number: 0.540
+     Country: 0.430
+   Sample Values:
+     1. GHG 2008 2A (BVI PROPERTY HOLDINGS) LIMITED
+     2. DAVID B BURRAGE ESQ DEED OF TRUST 245647
+     3. INTERNATIONAL STUDENTS HOUSE
+     4. MOJNA ALPHA MASTER FUND LIMITED
+     5. PW ANTELOPE LIMITED
+
+16. Column: col16
+   Predicted Type: Company Name
+   Primary Confidence: 0.812
+   Data Quality: 1954/2015 valid values
+   Confidence Scores:
+     Company Name: 0.812
+     Date: 0.546
+     Phone Number: 0.535
+     Country: 0.414
+   Sample Values:
+     1. MALVERN HILLS CONSERVATORS
+     2. RICHARD GARDNER'S TRUST
+     3. TELLES FOUNDATION
+     4. igonwafrg$twiyt
+     5. BNF (HOLDINGS) LIMITED
+
+17. Column: col17
+   Predicted Type: Company Name
+   Primary Confidence: 0.759
+   Data Quality: 1952/2015 valid values
+   Confidence Scores:
+     Company Name: 0.759
+     Phone Number: 0.597
+     Date: 0.581
+     Country: 0.506
+   Sample Values:
+     1. Germany
+     2. SALIGNA TRADING LIMITED
+     3. THE BRYN AFON SSAS SCHEME
+     4. JEBEL TARIQ TRADING DMCC
+     5. 07-09-2021
+
+18. Column: col18
+   Predicted Type: Company Name
+   Primary Confidence: 0.789
+   Data Quality: 1959/2015 valid values
+   Confidence Scores:
+     Company Name: 0.789
+     Phone Number: 0.575
+     Date: 0.549
+     Country: 0.457
+   Sample Values:
+     1. ΞΕΝΟΔΟΧΕΙΑΚΕΣ-ΤΟΥΡΙΣΤΙΚΕΣ-ΕΜΠΟΡΙΚΕΣ-ΓΕΩΡΓΙΚΕΣ KAI ΟΙΚΟΔΟΜΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΙΩΑΝΝΗΣ ΧΑΤΖΗΛΑΖΑΡΟΥ AE
+     2. 16-10-2017
+     3. N R G EXPLORATION
+     4. WALNUT GROVE HOLDINGS LIMITED
+     5. Solutions LLC
+
+19. Column: col19
+   Predicted Type: Company Name
+   Primary Confidence: 0.842
+   Data Quality: 1965/2015 valid values
+   Confidence Scores:
+     Company Name: 0.842
+     Phone Number: 0.521
+     Date: 0.500
+     Country: 0.376
+   Sample Values:
+     1. Gentofte Børnevenner
+     2. GUT STANS-SÜD HOLDING AG
+     3. LOWER SAPEY CENTENARY FUND
+     4. INTER FINANCE S.A.
+     5. THE LATE EDITH MAUD BUTLER WILL TRUST
+

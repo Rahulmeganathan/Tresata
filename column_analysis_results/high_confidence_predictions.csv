@@ -1,0 +1,18 @@
+Column_Name,Predicted_Type,Confidence_Score,Sample_Values
+col1,Country,0.96107017993927,Chile | Greece21 | Mexico
+col2,Country,0.9485234022140503,Bangladesh | Chile | Ireland
+col4,Phone Number,0.5079294443130493,#vk!#x | lo$n@!xq | mdgleq
+col5,Phone Number,0.8218299150466919,(896) 991-2378 | 498-018-8327 | (611) 941-1980
+col6,Phone Number,0.8296806812286377,-114300 | -242 | 060-269-9635
+col7,Country,0.948581337928772,Sri Lanka99 | Sri Lanka71 | Bangladesh
+col8,Phone Number,0.836916446685791,Call 598-852-8147 | -4426 | -7067
+col9,Date,0.8598676919937134,"Tech March 28th, 2013 | 12th-11-2013 | 20th-11-20th21"
+col10,Date,0.8585686087608337,"May 20th, 20th23 | Solutions Friday 3rd Nov 2023 | Thursday 21st April 2022"
+col11,Date,0.8571619987487793,Net Wednesday 6th Feb 2013 | Wednesday 1st September 2004 | Wed 27th August 2008
+col13,Country,0.7397454977035522,English | Spanish | Telugu
+col14,Date,0.8273999691009521,Sri Lanka99 | Thailand | South Korea
+col15,Company Name,0.837550163269043,GHG 2008 2A (BVI PROPERTY HOLDINGS) LIMITED | DAVID B BURRAGE ESQ DEED OF TRUST 245647 | INTERNATIONAL STUDENTS HOUSE
+col16,Company Name,0.8122624158859253,MALVERN HILLS CONSERVATORS | RICHARD GARDNER'S TRUST | TELLES FOUNDATION
+col17,Company Name,0.7593773007392883,Germany | SALIGNA TRADING LIMITED | THE BRYN AFON SSAS SCHEME
+col18,Company Name,0.7891418933868408,ΞΕΝΟΔΟΧΕΙΑΚΕΣ-ΤΟΥΡΙΣΤΙΚΕΣ-ΕΜΠΟΡΙΚΕΣ-ΓΕΩΡΓΙΚΕΣ KAI ΟΙΚΟΔΟΜΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΙΩΑΝΝΗΣ ΧΑΤΖΗΛΑΖΑΡΟΥ AE | 16-10-2017 | N R G EXPLORATION
+col19,Company Name,0.8422503471374512,Gentofte Børnevenner | GUT STANS-SÜD HOLDING AG | LOWER SAPEY CENTENARY FUND

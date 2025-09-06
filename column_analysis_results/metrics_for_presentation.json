@@ -1,0 +1,48 @@
+{
+  "overview": {
+    "total_columns": 19,
+    "average_confidence": 0.79,
+    "high_confidence_percentage": 84.2,
+    "data_quality_percentage": 66.6
+  },
+  "type_distribution": {
+    "Phone Number": 6,
+    "Company Name": 5,
+    "Country": 4,
+    "Date": 4
+  },
+  "confidence_stats": {
+    "mean": 0.79,
+    "median": 0.83,
+    "std": 0.143,
+    "min": 0.484,
+    "max": 0.961
+  },
+  "top_predictions": [
+    {
+      "Column_Name": "col1",
+      "Predicted_Type": "Country",
+      "Confidence_Score": 0.96107017993927
+    },
+    {
+      "Column_Name": "col7",
+      "Predicted_Type": "Country",
+      "Confidence_Score": 0.948581337928772
+    },
+    {
+      "Column_Name": "col2",
+      "Predicted_Type": "Country",
+      "Confidence_Score": 0.9485234022140504
+    },
+    {
+      "Column_Name": "col9",
+      "Predicted_Type": "Date",
+      "Confidence_Score": 0.8598676919937134
+    },
+    {
+      "Column_Name": "col10",
+      "Predicted_Type": "Date",
+      "Confidence_Score": 0.8585686087608337
+    }
+  ]
+}

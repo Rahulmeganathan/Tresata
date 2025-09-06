@@ -1,0 +1,500 @@
+{
+  "analysis_timestamp": "2025-09-06T14:10:05.708728",
+  "total_columns": 19,
+  "results": [
+    {
+      "column_name": "col1",
+      "predicted_type": "Country",
+      "confidence_scores": {
+        "Phone Number": 0.45640814304351807,
+        "Company Name": 0.2249176800251007,
+        "Country": 0.96107017993927,
+        "Date": 0.4663364589214325
+      },
+      "total_values": 2015,
+      "valid_values": 1397,
+      "empty_values": 618,
+      "sample_values": [
+        "Chile",
+        "Greece21",
+        "Mexico",
+        "UAE",
+        "Portugal",
+        "Portugal",
+        "Ireland",
+        "France",
+        "Iceland",
+        "Philippines"
+      ],
+      "classification_details": "Classified as Country with confidence 0.961"
+    },
+    {
+      "column_name": "col2",
+      "predicted_type": "Country",
+      "confidence_scores": {
+        "Phone Number": 0.4836869239807129,
+        "Company Name": 0.26197242736816406,
+        "Country": 0.9485234022140503,
+        "Date": 0.477732390165329
+      },
+      "total_values": 2015,
+      "valid_values": 1164,
+      "empty_values": 851,
+      "sample_values": [
+        "Bangladesh",
+        "Chile",
+        "Ireland",
+        "Philippines",
+        "Chile",
+        "Sweden",
+        "Brazil",
+        "Australia50",
+        "Egypt",
+        "South Africa"
+      ],
+      "classification_details": "Classified as Country with confidence 0.949"
+    },
+    {
+      "column_name": "col3",
+      "predicted_type": "Phone Number",
+      "confidence_scores": {
+        "Phone Number": 0.4841206967830658,
+        "Company Name": 0.3329581618309021,
+        "Country": 0.3259704113006592,
+        "Date": 0.43365246057510376
+      },
+      "total_values": 2015,
+      "valid_values": 1157,
+      "empty_values": 858,
+      "sample_values": [
+        "n@%dj#h*",
+        "txdgqicn^jq",
+        "gumyx@a",
+        "@*%yui#udkr^unk",
+        "qhukeqh",
+        "lzelt",
+        "%upb%n$!cv$*kxh",
+        "!cxrv%fo#c%b!",
+        "ivesx%rpsz$zhre",
+        "*$*yuz@vicvm$$k"
+      ],
+      "classification_details": "Classified as Phone Number with confidence 0.484"
+    },
+    {
+      "column_name": "col4",
+      "predicted_type": "Phone Number",
+      "confidence_scores": {
+        "Phone Number": 0.5079294443130493,
+        "Company Name": 0.328762948513031,
+        "Country": 0.3319980502128601,
+        "Date": 0.44705307483673096
+      },
+      "total_values": 2015,
+      "valid_values": 1027,
+      "empty_values": 988,
+      "sample_values": [
+        "#vk!#x",
+        "lo$n@!xq",
+        "mdgleq",
+        "@nl@^%*",
+        "rcbbdmjk",
+        "c%iuy",
+        "xn&@d&%%vlzo",
+        "jw^to^vtt",
+        "kbwdssdlwtzdf$l",
+        "cuozljnc"
+      ],
+      "classification_details": "Classified as Phone Number with confidence 0.508"
+    },
+    {
+      "column_name": "col5",
+      "predicted_type": "Phone Number",
+      "confidence_scores": {
+        "Phone Number": 0.8218299150466919,
+        "Company Name": 0.22423148155212402,
+        "Country": 0.2150484174489975,
+        "Date": 0.5150231122970581
+      },
+      "total_values": 2015,
+      "valid_values": 1551,
+      "empty_values": 464,
+      "sample_values": [
+        "(896) 991-2378",
+        "498-018-8327",
+        "(611) 941-1980",
+        "306.873.6048",
+        "-96574",
+        "-3441",
+        "495-657-8589",
+        "355.899.5954",
+        "-144700",
+        "-1705"
+      ],
+      "classification_details": "Classified as Phone Number with confidence 0.822"
+    },
+    {
+      "column_name": "col6",
+      "predicted_type": "Phone Number",
+      "confidence_scores": {
+        "Phone Number": 0.8296806812286377,
+        "Company Name": 0.24432066082954407,
+        "Country": 0.20346468687057495,
+        "Date": 0.515067458152771
+      },
+      "total_values": 2015,
+      "valid_values": 1256,
+      "empty_values": 759,
+      "sample_values": [
+        "-114300",
+        "-242",
+        "060-269-9635",
+        "(480) 657-3553",
+        "434-107-7121",
+        "-3311",
+        "-49451",
+        "929-115-3649",
+        "355-068-0992",
+        "283-209-8902"
+      ],
+      "classification_details": "Classified as Phone Number with confidence 0.830"
+    },
+    {
+      "column_name": "col7",
+      "predicted_type": "Country",
+      "confidence_scores": {
+        "Phone Number": 0.4451315402984619,
+        "Company Name": 0.24869287014007568,
+        "Country": 0.948581337928772,
+        "Date": 0.4601250886917114
+      },
+      "total_values": 2015,
+      "valid_values": 1512,
+      "empty_values": 503,
+      "sample_values": [
+        "Sri Lanka99",
+        "Sri Lanka71",
+        "Bangladesh",
+        "Turkey",
+        "South Africa",
+        "Switzerland",
+        "Canada72",
+        "France",
+        "Austria",
+        "Poland"
+      ],
+      "classification_details": "Classified as Country with confidence 0.949"
+    },
+    {
+      "column_name": "col8",
+      "predicted_type": "Phone Number",
+      "confidence_scores": {
+        "Phone Number": 0.836916446685791,
+        "Company Name": 0.23384186625480652,
+        "Country": 0.21558135747909546,
+        "Date": 0.5164815187454224
+      },
+      "total_values": 2015,
+      "valid_values": 1483,
+      "empty_values": 532,
+      "sample_values": [
+        "Call 598-852-8147",
+        "-4426",
+        "-7067",
+        "-78529",
+        "-132638",
+        "-57407",
+        "-6241",
+        "541-360-1345",
+        "-48439",
+        "(960) 942-2650"
+      ],
+      "classification_details": "Classified as Phone Number with confidence 0.837"
+    },
+    {
+      "column_name": "col9",
+      "predicted_type": "Date",
+      "confidence_scores": {
+        "Phone Number": 0.5237060785293579,
+        "Company Name": 0.19353023171424866,
+        "Country": 0.35534796118736267,
+        "Date": 0.8598676919937134
+      },
+      "total_values": 2015,
+      "valid_values": 1058,
+      "empty_values": 957,
+      "sample_values": [
+        "Tech March 28th, 2013",
+        "12th-11-2013",
+        "20th-11-20th21",
+        "14th September 2017",
+        "Feb 17th, 2022",
+        "Thu 7th Jan 2016",
+        "11th March 2023",
+        "27th September 2010",
+        "12/11th/2013",
+        "Dynamic Sun 2nd June 2013"
+      ],
+      "classification_details": "Classified as Date with confidence 0.860"
+    },
+    {
+      "column_name": "col10",
+      "predicted_type": "Date",
+      "confidence_scores": {
+        "Phone Number": 0.5308613777160645,
+        "Company Name": 0.19158191978931427,
+        "Country": 0.3499208688735962,
+        "Date": 0.8585686087608337
+      },
+      "total_values": 2015,
+      "valid_values": 1360,
+      "empty_values": 655,
+      "sample_values": [
+        "May 20th, 20th23",
+        "Solutions Friday 3rd Nov 2023",
+        "Thursday 21st April 2022",
+        "Wed 1st June 21st1",
+        "10/5th/2015",
+        "14th-05-2003",
+        "12/27th/2019",
+        "2nd Jul 2001",
+        "Thu 23rd Mar 2000",
+        "December 12th, 2006"
+      ],
+      "classification_details": "Classified as Date with confidence 0.859"
+    },
+    {
+      "column_name": "col11",
+      "predicted_type": "Date",
+      "confidence_scores": {
+        "Phone Number": 0.5173787474632263,
+        "Company Name": 0.18433894217014313,
+        "Country": 0.35592445731163025,
+        "Date": 0.8571619987487793
+      },
+      "total_values": 2015,
+      "valid_values": 1575,
+      "empty_values": 440,
+      "sample_values": [
+        "Net Wednesday 6th Feb 2013",
+        "Wednesday 1st September 2004",
+        "Wed 27th August 2008",
+        "Sep 15th, 2002",
+        "31st-01-2025",
+        "Tuesday 12th Jan 2021",
+        "Soft 24th-03-2003",
+        "4th May 2022",
+        "Monday 11th Nov 2002",
+        "Tech Sun 4th Dec 2022"
+      ],
+      "classification_details": "Classified as Date with confidence 0.857"
+    },
+    {
+      "column_name": "col12",
+      "predicted_type": "Phone Number",
+      "confidence_scores": {
+        "Phone Number": 0.49491703510284424,
+        "Company Name": 0.34548187255859375,
+        "Country": 0.32900339365005493,
+        "Date": 0.44561076164245605
+      },
+      "total_values": 2015,
+      "valid_values": 1046,
+      "empty_values": 969,
+      "sample_values": [
+        "Softccdfg",
+        "vfjlhezb&",
+        "tl*a@lojg%z@%q",
+        "moda*az",
+        "Net!nly@%cu",
+        "Datahmt$qfjubtsm&",
+        "lwtcb%$gb$zkgs",
+        "jh$ktv*lx",
+        "s^ggzr!s%",
+        "d@#cdbibms#!q*#"
+      ],
+      "classification_details": "Classified as Phone Number with confidence 0.495"
+    },
+    {
+      "column_name": "col13",
+      "predicted_type": "Country",
+      "confidence_scores": {
+        "Phone Number": 0.43635526299476624,
+        "Company Name": 0.2441636174917221,
+        "Country": 0.7397454977035522,
+        "Date": 0.4138035178184509
+      },
+      "total_values": 2015,
+      "valid_values": 93,
+      "empty_values": 1922,
+      "sample_values": [
+        "English",
+        "Spanish",
+        "Telugu",
+        "portugese",
+        "Turkey",
+        "Abkhaz",
+        "Assamese",
+        "Mapudungun",
+        "French",
+        "Hindi"
+      ],
+      "classification_details": "Classified as Country with confidence 0.740"
+    },
+    {
+      "column_name": "col14",
+      "predicted_type": "Date",
+      "confidence_scores": {
+        "Phone Number": 0.820507287979126,
+        "Company Name": 0.3077450394630432,
+        "Country": 0.6598040461540222,
+        "Date": 0.8273999691009521
+      },
+      "total_values": 2015,
+      "valid_values": 40,
+      "empty_values": 1975,
+      "sample_values": [
+        "Sri Lanka99",
+        "Thailand",
+        "South Korea",
+        "China",
+        "(715) 212-9792",
+        "Call 726-185-3974",
+        "(713) 599-8946",
+        "22nd3-05-2nd",
+        "Tuesday 6th August 2024",
+        "3rd Mar 2019"
+      ],
+      "classification_details": "Classified as Date with confidence 0.827"
+    },
+    {
+      "column_name": "col15",
+      "predicted_type": "Company Name",
+      "confidence_scores": {
+        "Phone Number": 0.5396255254745483,
+        "Company Name": 0.837550163269043,
+        "Country": 0.4302830696105957,
+        "Date": 0.5608848929405212
+      },
+      "total_values": 2015,
+      "valid_values": 1967,
+      "empty_values": 48,
+      "sample_values": [
+        "GHG 2008 2A (BVI PROPERTY HOLDINGS) LIMITED",
+        "DAVID B BURRAGE ESQ DEED OF TRUST 245647",
+        "INTERNATIONAL STUDENTS HOUSE",
+        "MOJNA ALPHA MASTER FUND LIMITED",
+        "PW ANTELOPE LIMITED",
+        "ST. JAMES'S PLACE UK PLC - UK EQUITY LIFE",
+        "FIRST CALL PHARMACY LTD",
+        "HONORBOND LIMITED",
+        "SUSSEX PROPCO 4 LTD",
+        "MRS CEG KERR 1994 INTER VIVO"
+      ],
+      "classification_details": "Classified as Company Name with confidence 0.838"
+    },
+    {
+      "column_name": "col16",
+      "predicted_type": "Company Name",
+      "confidence_scores": {
+        "Phone Number": 0.5347319841384888,
+        "Company Name": 0.8122624158859253,
+        "Country": 0.4138055443763733,
+        "Date": 0.5456005334854126
+      },
+      "total_values": 2015,
+      "valid_values": 1954,
+      "empty_values": 61,
+      "sample_values": [
+        "MALVERN HILLS CONSERVATORS",
+        "RICHARD GARDNER'S TRUST",
+        "TELLES FOUNDATION",
+        "igonwafrg$twiyt",
+        "BNF (HOLDINGS) LIMITED",
+        "DANICA PENSION, LIVSFORSIKRINGSAKTIESELSKAB",
+        "May 29, 2014",
+        "p^v!$%f",
+        "Global LLC",
+        "NEWBRIDGE (BATH) INVESTMENTS LIMITED"
+      ],
+      "classification_details": "Classified as Company Name with confidence 0.812"
+    },
+    {
+      "column_name": "col17",
+      "predicted_type": "Company Name",
+      "confidence_scores": {
+        "Phone Number": 0.597434401512146,
+        "Company Name": 0.7593773007392883,
+        "Country": 0.505932629108429,
+        "Date": 0.5813767313957214
+      },
+      "total_values": 2015,
+      "valid_values": 1952,
+      "empty_values": 63,
+      "sample_values": [
+        "Germany",
+        "SALIGNA TRADING LIMITED",
+        "THE BRYN AFON SSAS SCHEME",
+        "JEBEL TARIQ TRADING DMCC",
+        "07-09-2021",
+        "sap%bbtvydqr@",
+        "OPPSIDE AS",
+        "METHODOLOGY PUTS FUND A1 LTD.",
+        "AMUNDI PRIME EMERGING MARKETS",
+        "THE WOL KOLADE SURPLUS INCOME TRUST NO. 3"
+      ],
+      "classification_details": "Classified as Company Name with confidence 0.759"
+    },
+    {
+      "column_name": "col18",
+      "predicted_type": "Company Name",
+      "confidence_scores": {
+        "Phone Number": 0.5754252672195435,
+        "Company Name": 0.7891418933868408,
+        "Country": 0.45695656538009644,
+        "Date": 0.5492857694625854
+      },
+      "total_values": 2015,
+      "valid_values": 1959,
+      "empty_values": 56,
+      "sample_values": [
+        "ΞΕΝΟΔΟΧΕΙΑΚΕΣ-ΤΟΥΡΙΣΤΙΚΕΣ-ΕΜΠΟΡΙΚΕΣ-ΓΕΩΡΓΙΚΕΣ KAI ΟΙΚΟΔΟΜΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΙΩΑΝΝΗΣ ΧΑΤΖΗΛΑΖΑΡΟΥ AE",
+        "16-10-2017",
+        "N R G EXPLORATION",
+        "WALNUT GROVE HOLDINGS LIMITED",
+        "Solutions LLC",
+        "THE SAXON TRUST",
+        "THE ANBER FUND",
+        "!rtlhyuyclpzu*",
+        "ANN BINDING WILL TRUST",
+        "(763) 289-1688"
+      ],
+      "classification_details": "Classified as Company Name with confidence 0.789"
+    },
+    {
+      "column_name": "col19",
+      "predicted_type": "Company Name",
+      "confidence_scores": {
+        "Phone Number": 0.520642101764679,
+        "Company Name": 0.8422503471374512,
+        "Country": 0.3757217526435852,
+        "Date": 0.49969595670700073
+      },
+      "total_values": 2015,
+      "valid_values": 1965,
+      "empty_values": 50,
+      "sample_values": [
+        "Gentofte Børnevenner",
+        "GUT STANS-SÜD HOLDING AG",
+        "LOWER SAPEY CENTENARY FUND",
+        "INTER FINANCE S.A.",
+        "THE LATE EDITH MAUD BUTLER WILL TRUST",
+        "HENDERSON INTERNATIONAL INCOME TRUST PLC",
+        "USA",
+        "ΟΙΚΙΣΤΙΚΗ ΑΝΑΠΤΥΞΗ ΚΟΜΟΤΗΝΗΣ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+        "THE JOHN WILLIAM HAY CHARITABLE TRUST",
+        "China"
+      ],
+      "classification_details": "Classified as Company Name with confidence 0.842"
+    }
+  ]
+}
