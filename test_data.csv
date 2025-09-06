@@ -1,0 +1,8 @@
+company_name,phone_number,location,created_date,misc_data
+"Microsoft Corporation","425-882-8080","Washington","2023-01-15","some data"
+"Apple Inc.","+1-408-996-1010","California","12/25/2022","other info"  
+"Google LLC","650-253-0000","Mountain View","2023-03-10T14:30:00Z","data point"
+"Amazon.com Inc.","206-266-1000","Seattle","15-04-2023","test value"
+"Meta Platforms Inc.","650-543-4800","Menlo Park","2023/05/20","random text"
+"Tesla Inc.","512-516-8177","Austin","Jun 8th 2023","more data"
+"Netflix Inc.","408-540-3700","Los Gatos","2023-07-01","final entry"
